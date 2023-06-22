@@ -1,0 +1,22 @@
+1. Introduction to Computational and Systems Biology
+2. Local Alignment (BLAST) and Statistics
+3. Global Alignment of Protein Sequences (NW, SW, PAM, BLOSUM)
+4. Comparative Genomic Analysis of Gene Regulation
+5. Library Complexity and Short Read Alignment (Mapping)
+6. Genome Assembly
+7. ChIP-seq Analysis; DNA-protein Interactions
+8. RNA-sequence Analysis: Expression, Isoforms
+9. Modeling and Discovery of Sequence Motifs
+10. Markov and Hidden Markov Models of Genomic and Protein Features
+11. RNA Secondary Structure; Biological Functions and Predictions
+12. Introduction to Protein Structure; Structure Comparison and Classification
+13. Predicting Protein Structure
+14. Predicting Protein Interactions
+15. Gene Regulatory Networks
+16. Protein Interaction Networks
+17. Logic Modeling of Cell Signaling Networks
+18. Analysis of Chromatin Structure
+19. Discovering Quantitative Trait Loci (QTLs)
+20. Human Genetics, SNPs, and Genome Wide Associate Studies
+21. Synthetic Biology: From Parts to Modules to Therapeutic Systems
+22. Causality, Natural Computing, and Engineering Genomes
